@@ -1,5 +1,7 @@
 #Setting Up a React.js Environment Using Npm, Babel 6 and Webpack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NextZeus/react-webpack.svg)](https://greenkeeper.io/)
+
 https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack
 
 ```javascript
